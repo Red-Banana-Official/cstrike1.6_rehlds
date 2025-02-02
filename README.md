@@ -8,7 +8,6 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 
 <p align="center">
 <a href="#eggs">Eggs</a> ·
-<a href="#systems">System (OS)</a> ·
 <a href="#engines">Engines</a> ·
 <a href="#modules">Metamod Modules</a> ·
 <a href="#optional">Optional</a> ·
@@ -18,7 +17,7 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 </p>
 
 ## Eggs
-Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
+Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Panel (egg download)                                                                                            | Author name                          | Status                    |
 | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
@@ -76,3 +75,4 @@ Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 * AMXX4u.pl
 * dev-cs.ru
 * cs.rin.ru
+* DemOnJR
