@@ -21,7 +21,7 @@ Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Panel (egg download)                                                                                            | Author name                          | Status                    |
 | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
-| [Pterodactyl](https://github.com/Ptero-Eggs/game-eggs/blob/main/counter_strike/counter_strike_1.6_rehlds/egg-cs%201.6-rehlds.json) | [Daemon](https://github.com/DemOnJR) | Working |
+| [Pterodactyl](https://github.com/Ptero-Eggs/game-eggs/blob/main/counter_strike/counter_strike_1.6_rehlds/egg-cs%201.6-rehlds.json) | [Daemon](https://github.com/Red-Banana-Official) | Working |
 
 ## Systems
 
