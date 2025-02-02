@@ -75,3 +75,6 @@ Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 * dev-cs.ru
 * cs.rin.ru
 * DemOnJR
+
+* This repository is a fork of [oldstyle-community/cstrike_default](https://github.com/oldstyle-community/cstrike_default),
+originally licensed under the GNU General Public License v3. Modifications have been made by (https://github.com/Red-Banana-Official).
