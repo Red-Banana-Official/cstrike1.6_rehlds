@@ -10,7 +10,6 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 <a href="#eggs">Eggs</a> ·
 <a href="#engines">Engines</a> ·
 <a href="#modules">Metamod Modules</a> ·
-<a href="#optional">Optional</a> ·
 <a href="#download">Download</a> ·
 <a href="#credits">Credits</a>
 </p>
