@@ -22,16 +22,9 @@ Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Panel (egg download)                                                                                            | Author name                          | Status                    |
 | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
-| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | :white_check_mark:        |
-| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | :construction: Not Tested |
+| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | Working |
 
 ## Systems
-
-Tested
-| Ubuntu                                        | Status             |
-| :-------------------------------------------- | :----------------- |
-| 24.04 LTS (GNU/Linux 6.8.0-40-generic x86_64) | :white_check_mark: |
-| ...                                           | ...                |
 
 ---
 
@@ -70,15 +63,6 @@ Tested
 
 * [Github Releases](https://github.com/oldstyle-community/cstrike_default/releases/latest)
 
-## Installation
-
-* [Download the latest](https://github.com/oldstyle-community/cstrike_default/releases/latest) version from the release section.
-* Upload the archive to your server, and unzip it.
-* Run the Install.sh file that you have in the folder, or you can generate an new one here: [Server Installer Generator](https://olds.ro/creator/server/)
-
-## Optional
-
-* Generate an new installer here choosing any optional module that you want to install: [Server Installer Generator](https://olds.ro/creator/server/)
 
 ## Credits
 
