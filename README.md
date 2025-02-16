@@ -58,7 +58,7 @@ Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 ## Download
 
-* [Github Releases](https://github.com/oldstyle-community/cstrike_default/releases/latest)
+* [Github Releases](https://github.com/Red-Banana-Official/cstrike1.6_rehlds/releases/tag/latest)
 
 
 ## Credits
