@@ -45,7 +45,7 @@ Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Extra                                                         | Author name                                 | Engine | Short Description                                              |
 | :------------------------------------------------------------ | :------------------------------------------ | :----- | :------------------------------------------------------------- |
-| [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235) | [theAsmodai](https://github.com/theAsmodai) | REHLDS | Allow Steam/Non-Steam Players to join server                   |
+| [Reunion](https://github.com/rehlds/ReUnion) | [theAsmodai](https://github.com/theAsmodai) | REHLDS | Allow Steam/Non-Steam Players to join server                   |
 | [ReVoice Plus](https://github.com/Garey27/revoice-plus)       | [Garey27](https://github.com/Garey27/)      | REHLDS | Allows voice communication between non-steam and steam Players |
 
 | Optional                                                         | Author name                                                                        | Engine |
